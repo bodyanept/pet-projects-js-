@@ -1,0 +1,19 @@
+
+.countdown{
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+.cuntdown-item{
+    background-color: blue;
+    padding: 10px;
+    color: white;
+    margin: 10px;
+    width: 90px;
+}
+
